@@ -1,4 +1,11 @@
 table, th, tr, td {
     border: 1px solid black;
     border-collapse: collapse;
+    text-align: center;
+}
+ul {
+    list-style-position:inside ;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: left;
 }
