@@ -9,3 +9,17 @@ ul {
     padding: 10px;
     text-align: left;
 }
+table {
+    width: 80%;
+    font-size: 20px;
+    margin: 20px auto;
+}
+tr {
+    height: 50px;
+    width: 100px;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+
+}
