@@ -7,7 +7,6 @@ th {
     border-width: 3px;
 }
 td {
-   
     border-width: 2px;
 }
 ul {
@@ -29,5 +28,23 @@ tr {
 a {
     color: darkblue;
     text-decoration: none;
-
+}
+img {
+    vertical-align: middle;
+    background-color:grey ;
+}
+.icon-1 {
+    background-color: grey;
+}
+.icon-2 {
+    background-color: blue;
+}
+.icon-3 {
+    background-color: #FF6700;
+}
+.icon-4 {
+    background-color: grey;
+}
+.icon-5 {
+    background-color: #0183ff;
 }
